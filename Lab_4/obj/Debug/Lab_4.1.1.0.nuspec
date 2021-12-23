@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab_4</id>
+    <version>1.1.0</version>
+    <authors>Lab_4</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Lab_3_lib" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="McMaster.Extensions.CommandLineUtils" version="3.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_4\bin\Debug\net5.0\Lab_4.runtimeconfig.json" target="lib\net5.0\Lab_4.runtimeconfig.json" />
+    <file src="C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_4\bin\Debug\net5.0\Lab_4.dll" target="lib\net5.0\Lab_4.dll" />
+  </files>
+</package>

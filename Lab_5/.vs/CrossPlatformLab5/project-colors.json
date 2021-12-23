@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dea25533-b2c9-4f98-b66a-cb33e5fc4f49": {
+      "ProjectGuid": "dea25533-b2c9-4f98-b66a-cb33e5fc4f49",
+      "DisplayName": "CrossPlatformLab5",
+      "ColorIndex": 0
+    },
+    "032db6a0-6d5a-4b00-917a-6a926d1d7fd2": {
+      "ProjectGuid": "032db6a0-6d5a-4b00-917a-6a926d1d7fd2",
+      "DisplayName": "ClassLibraryLab5",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

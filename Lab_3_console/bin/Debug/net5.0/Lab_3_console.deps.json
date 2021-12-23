@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab_3_console/1.0.0": {
+        "dependencies": {
+          "Lab_3_lib": "2.1.0"
+        },
+        "runtime": {
+          "Lab_3_console.dll": {}
+        }
+      },
+      "Lab_3_lib/2.1.0": {
+        "runtime": {
+          "lib/net5.0/Lab_3_lib.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_3_console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab_3_lib/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ISSvUMoE43uMQ2ciQvTa9M3/Q9kczYPu+vSEG7UMo3u662xpGmHbyI6Qvz+qByyLcPwrojsHEUkaODyFe5sraw==",
+      "path": "lab_3_lib/2.1.0",
+      "hashPath": "lab_3_lib.2.1.0.nupkg.sha512"
+    }
+  }
+}

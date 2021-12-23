@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e545b83f-0e6f-40e2-beb9-091c1d9ee11d": {
+      "ProjectGuid": "e545b83f-0e6f-40e2-beb9-091c1d9ee11d",
+      "DisplayName": "Lab_1",
+      "ColorIndex": 0
+    },
+    "07a156fc-9772-40bb-985a-d3c5bdbb76df": {
+      "ProjectGuid": "07a156fc-9772-40bb-985a-d3c5bdbb76df",
+      "DisplayName": "Lab_2",
+      "ColorIndex": 1
+    },
+    "5a973e47-87b6-4581-b23f-b979e94a2b3d": {
+      "ProjectGuid": "5a973e47-87b6-4581-b23f-b979e94a2b3d",
+      "DisplayName": "Lab_3_console",
+      "ColorIndex": 2
+    },
+    "6b809e36-fb25-4b0a-9320-8266d2355bd0": {
+      "ProjectGuid": "6b809e36-fb25-4b0a-9320-8266d2355bd0",
+      "DisplayName": "Lab_3_lib",
+      "ColorIndex": 3
+    },
+    "a763db5c-9a5f-4e43-9cee-f6ceb3fc9b71": {
+      "ProjectGuid": "a763db5c-9a5f-4e43-9cee-f6ceb3fc9b71",
+      "DisplayName": "Lab_4",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

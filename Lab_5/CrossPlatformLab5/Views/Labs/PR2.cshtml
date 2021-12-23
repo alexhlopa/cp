@@ -1,0 +1,36 @@
+﻿@model CrossPlatformLab5.Models.SecondLabModel
+
+@{
+    ViewData["Title"] = "PR2";
+}
+<h1>@ViewData["Title"]</h1>
+
+<h4>Умова завдання</h4>
+<body>
+    Сколько N-значных чисел можно составить, используя цифры 5 и 9, в которых три одинаковые цифры не стоят рядом?
+    <br>Во входном файле INPUT.TXT записано число N (1 ≤ N ≤ 30).
+    <br>В выходной файл OUTPUT.TXT нужно вывести одно число - количество чисел с указанным свойством.
+</body>
+
+<form method="post" enctype="multipart/form-data" asp-controller="Labs" asp-action="PR2">
+    <div class="form-group">
+        <label for="labelN">N</label>
+        <input type="text" class="form-control" id="labelN" asp-for="N" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Submit</button>
+</form>
+@if (Model != null)
+{
+    @if (Model.Calculated)
+    {
+        <div class="form-group">
+            <label for="response">@Model.Response</label>
+        </div>
+    }
+    @if (!string.IsNullOrEmpty(Model.ErrorValue))
+    {
+        <div class="form-group">
+            <label for="error">@Model.ErrorValue</label>
+        </div>
+    }
+}

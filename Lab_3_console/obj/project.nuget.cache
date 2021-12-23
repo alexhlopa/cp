@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IeQgIJwObGENJqLgHv/MgLfKSKHcLCGX03A3nkZAWaHYl7xLi+nFmbbSayoLa5LnPauB4qS55ZhLU+Wo7PeRuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Карина\\Desktop\\cross_platform\\cross_platform\\Lab_3_console\\Lab_3_console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Карина\\.nuget\\packages\\lab_3_lib\\2.1.0\\lab_3_lib.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "X+/gSU7FIeP11/R6xmxY9zhiI9HJuaY5GrTV/9o5YFgDE/ZrcM3NlX7Ogwa2ENiY+cHRqxOAD8gAR8rBr9dCGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Карина\\Desktop\\cross_platform\\cross_platform\\Lab_1\\Lab_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Карина\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\3.1.0\\mcmaster.extensions.commandlineutils.3.1.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\mcmaster.extensions.hosting.commandline\\3.1.0\\mcmaster.extensions.hosting.commandline.3.1.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.1.0\\microsoft.extensions.fileproviders.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.1.0\\microsoft.extensions.hosting.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Карина\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

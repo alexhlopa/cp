@@ -1,0 +1,16 @@
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\bin\Debug\net5.0\Lab_2.exe
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\bin\Debug\net5.0\Lab_2.deps.json
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\bin\Debug\net5.0\Lab_2.runtimeconfig.json
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\bin\Debug\net5.0\Lab_2.runtimeconfig.dev.json
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\bin\Debug\net5.0\Lab_2.dll
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\bin\Debug\net5.0\ref\Lab_2.dll
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\bin\Debug\net5.0\Lab_2.pdb
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\Lab_2.csproj.AssemblyReference.cache
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\Lab_2.AssemblyInfo.cs
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\Lab_2.dll
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\ref\Lab_2.dll
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\Lab_2.pdb
+C:\Users\Карина\Desktop\cross_platform\cross_platform\Lab_2\obj\Debug\net5.0\Lab_2.genruntimeconfig.cache

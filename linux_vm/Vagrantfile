@@ -1,0 +1,37 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+# All Vagrant configuration is done below. The "2" in Vagrant.configure
+# configures the configuration version (we support older styles for
+# backwards compatibility). Please don't change it unless you know what
+# you're doing.
+Vagrant.configure("2") do |config|
+  config.vm.box = "bento/ubuntu-18.04"
+
+  config.vm.box_check_update = false
+  
+  config.ssh.insert_key = false
+  config.vm.provider "virtualbox" do |vb|
+  
+  vb.name = "ubuntu-test-local"
+  
+  vb.memory = 2048
+  
+  vb.cpus = 1
+  end
+  
+  
+  config.vm.hostname = "ubuntu-test-local"
+  
+  # config.vm.provision "shell", inline: "wget https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb"
+  # config.vm.provision "shell", inline: "sudo dpkg -i packages-microsoft-prod.deb"
+  # config.vm.provision "shell", inline: "rm packages-microsoft-prod.deb"
+  # config.vm.provision "shell", inline: "sudo apt-get update"
+  # config.vm.provision "shell", inline: "sudo apt-get install -y apt-transport-https"
+  # config.vm.provision "shell", inline: "sudo apt-get update"
+  # config.vm.provision "shell", inline: "sudo apt-get install -y dotnet-sdk-5.0"
+  # config.vm.provision "shell", inline: "dotnet nuget remove source BagetPackageSource"
+  #config.vm.provision "shell", inline: "dotnet nuget add source http://localhost:50561/baget/v3/index.json"
+  config.vm.provision "shell", inline: "dotnet tool install Lab_4 --tool-path /home/vagrant/.dotnet/tools --version 1.0.0"
+  
+  end

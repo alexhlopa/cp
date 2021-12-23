@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab_3_lib</id>
+    <version>1.0.0</version>
+    <authors>Lab_3_lib</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Artem\Desktop\fit\cross_platform\Lab_3_lib\bin\Debug\net5.0\Lab_3_lib.dll" target="lib\net5.0\Lab_3_lib.dll" />
+  </files>
+</package>
